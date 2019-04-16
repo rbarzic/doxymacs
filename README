@@ -43,3 +43,11 @@ Ryan T. Sammartino
 ryan.sammartino at gmail dot com
 
 $Id: README,v 1.13 2006/04/23 01:20:15 ryants Exp $
+
+
+Ubuntu 18.04LTS :
+
+./bootstrap
+./configure --prefix=$HOME/local
+make
+make install
